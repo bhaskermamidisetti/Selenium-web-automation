@@ -7,7 +7,7 @@ Modules of this framework are designed to scale different test scenarious eaisly
 This framework has Regression test suite for Login, Login to the yahoo site and create a calender event information which will help for Sanity testing.
 *** Set Up
 
-Clone GitLab repository using 'git clone' [https://github.com/bhaskermamidisetti)
+Clone GitLab repository using 'git clone' [https://github.com/bhaskermamidisetti/Selenium-web-automation.git)
 Run mvn veriy from the project's root directory.
 After Test execution, Cucmber will genarate pretty format results in target folder. Browser Step:
 Install appropriate browser and WebDriver executable with supported version chromedriver
